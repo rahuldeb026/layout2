@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+}
+.head12{
+    overflow: hidden;
+}
+.head1{
+    color: red;
+    background-color: rgb(158, 0, 0);
+    height: 75px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: larger;
+}
+.head2{
+    color: rgb(38, 0, 255);
+    background-color: rgb(4, 239, 247);
+    height: 75px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: larger;
+}
+.box1{
+    color: black;
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+    font-size: small;
+    width: 100%;
+}
+.box2{
+    color: red;
+    background-color: blue;
+    width: 20%;
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    height: 600px;
+}
+.box3{
+    color: rgb(177, 153, 153);
+    background-color: rgb(0, 248, 62);
+    width: 60%;
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    height: 600px;
+}
+.box4{
+    color: rgb(245, 241, 4);
+    background-color: rgb(255, 0, 242);
+    width: 20%;
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    height: 600px;
+}
+.first1{
+    background-color: teal;
+    height: 300px;
+}
+.first2{
+    background-color: tomato;
+    height: 300px;
+}
+.box234{
+    overflow: hidden;
+}
+.first{
+    overflow: hidden;
+
+}
+.second1{
+    background-color: skyblue;
+    height: 300px;
+}
+.second2{
+    background-color: green;
+    height: 300px;
+}
+.second{
+    overflow: hidden;
+}
+.last{
+    background-color: brown;
+    height: 50px;
+    text-align: center;
+}
